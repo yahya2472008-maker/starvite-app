@@ -1,0 +1,10 @@
+{
+  "name": "starvite-next",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Starvite dengan Next.js: undangan digital beranimasi bertema luar angkasa",
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": { "next": "^15.5.0", "react": "^19.0.0", "react-dom": "^19.0.0" },
+  "engines": { "node": ">=22.13" }
+}

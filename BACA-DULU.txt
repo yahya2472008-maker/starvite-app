@@ -1,0 +1,11 @@
+CARA PAKAI (Windows)
+
+1. Pasang Node.js versi LTS dari https://nodejs.org (sekali saja).
+2. Klik kanan file zip ini lalu pilih "Extract All" (Ekstrak semua).
+3. Buka folder hasil ekstrak sampai terlihat file jalankan.bat.
+4. Klik dua kali jalankan.bat.
+5. Tunggu sampai browser terbuka di http://localhost:3005.
+   Jangan tutup jendela hitamnya selama Starvite dipakai.
+
+Pastikan di bawah kartu pratinjau ada tulisan "Versi aplikasi: v3.8".
+Catatan: jalankan.bat menutup semua program Node lain yang sedang berjalan.
